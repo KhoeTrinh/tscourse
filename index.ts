@@ -1,11 +1,5 @@
-let myName: string = 'Khoa'
-myName = 'Idk'
-console.log(myName);
+let tech = 'hello';
+let num = 8;
+let isEasy = true;
 
-let myNum: number = 2
-myNum += 1
-console.log(myNum);
-
-let isEasy: boolean = false
-isEasy = true
-console.log(isEasy);
+console.log(tech, num, isEasy);
