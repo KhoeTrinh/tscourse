@@ -6,4 +6,4 @@ class nameKhoa {
     }
 }
 const burh = new nameKhoa("123")
-console.log(burh);
+console.log(burh);xcudshntfa.jhdsolhkgavcoislknd.gz
